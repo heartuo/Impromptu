@@ -18,7 +18,7 @@ Currently the game framework features:
 * Handlers for user input through button, touchscreen, and accelerometer
 * More to be added! 
 
-*TODOs*:
+**TODOs**:
 
 * Add animation system
 * Add dialogue system
